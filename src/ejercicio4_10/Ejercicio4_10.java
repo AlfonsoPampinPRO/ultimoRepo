@@ -11,6 +11,6 @@ package ejercicio4_10;
 public class Ejercicio4_10 {
 
     public static void main(String[] args) {
-        System.out.println(Restador.restar(15f, 4f));
+        System.out.println(Restador.restar(16f, 4f));
     }
 }
