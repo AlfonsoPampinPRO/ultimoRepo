@@ -8,9 +8,9 @@ package ejercicio4_10;
  *
  * @author Alfonso
  */
-public class Sumador {
+public class Restador {
 
-    public static float sumar(float a, float b) {
-        return a + b;
+    public static float restar(float a, float b) {
+        return a - b;
     }
 }
